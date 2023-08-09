@@ -28,6 +28,7 @@ Navigate to the cloned directory
 Place all your .lrtemplate files in the directory where the script is located.
 
 Run the script: python lrtemp2xmp.py
+
 Converted .xmp files will be created in the same directory, zipped for your convenience.
 
 **Contributing**
