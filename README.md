@@ -9,10 +9,10 @@ This script is designed to seamlessly transform Lightroom template files (.lrtem
 
 **Features**
 
-1.Automated conversion of .lrtemplate to .xmp.
-2.Neatly formatted output for better readability.
-3.Bulk conversion support.
-4.Zipped XMP output for space efficiency.
+1. Automated conversion of .lrtemplate to .xmp.
+2. Neatly formatted output for better readability.
+3. Bulk conversion support.
+4. Zipped XMP output for space efficiency.
 
 **Prerequisites**
 
